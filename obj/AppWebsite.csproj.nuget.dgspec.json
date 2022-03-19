@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bautista Josses\\Documents\\WebApps\\AppWebsite\\AppWebsite.csproj": {}
+    "C:\\Users\\Bautista Josses\\Documents\\WebApps\\SitioWebPlatzi\\AppWebsite.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bautista Josses\\Documents\\WebApps\\AppWebsite\\AppWebsite.csproj": {
+    "C:\\Users\\Bautista Josses\\Documents\\WebApps\\SitioWebPlatzi\\AppWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bautista Josses\\Documents\\WebApps\\AppWebsite\\AppWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\Bautista Josses\\Documents\\WebApps\\SitioWebPlatzi\\AppWebsite.csproj",
         "projectName": "AppWebsite",
-        "projectPath": "C:\\Users\\Bautista Josses\\Documents\\WebApps\\AppWebsite\\AppWebsite.csproj",
+        "projectPath": "C:\\Users\\Bautista Josses\\Documents\\WebApps\\SitioWebPlatzi\\AppWebsite.csproj",
         "packagesPath": "C:\\Users\\Bautista Josses\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bautista Josses\\Documents\\WebApps\\AppWebsite\\obj\\",
+        "outputPath": "C:\\Users\\Bautista Josses\\Documents\\WebApps\\SitioWebPlatzi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
